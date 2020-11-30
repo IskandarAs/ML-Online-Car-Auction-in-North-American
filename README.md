@@ -1,5 +1,7 @@
 > ## MACHINE LEARNING ONLINE CAR AUCTION IN NORTH AMERICAN
-![alt text](https://s3.amazonaws.com/auctionmobility-wordpress-node-3/wp-content/uploads/cws/2020/02/20171750/ferrari.gif)
+<p align="center">
+  <img src="https://s3.amazonaws.com/auctionmobility-wordpress-node-3/wp-content/uploads/cws/2020/02/20171750/ferrari.gif?raw=true" alt="Sublime's custom image"/>
+</p>
 
 Cars'data was scraped from AUCTION EXPORT.com. This dataset included Information about 28 brands of clean and used vehicles for sale in US. Twelve features were assembled for each car in the dataset. 
 
