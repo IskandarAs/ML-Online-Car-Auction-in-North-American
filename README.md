@@ -11,7 +11,7 @@ Cars'data was scraped from AUCTION EXPORT.com. This dataset included Information
 - [x] Machine Learning.
 
 ## Content
-This dataset includes 12 features:
+- Dataset includes 12 columns:
 
 | Feature	| Type |
 | ------- |:----:|
@@ -27,7 +27,7 @@ This dataset includes 12 features:
 | Lot |	Integer |
 | Condition |	String |
 
-Description of Dataset columns
+- Description of Dataset columns
 
 | Feature	|Description|
 | ------- |:----:|
