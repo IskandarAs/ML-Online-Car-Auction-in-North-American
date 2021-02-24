@@ -27,7 +27,7 @@ This dataset includes 12 features:
 | Lot |	Integer |
 | Condition |	String |
 
-Description of Cars
+Description of Dataset columns
 
 | Feature	|Description|
 | ------- |:----:|
